@@ -1,2 +1,1 @@
-# app_liga
-App for Liga
+# homework_2
